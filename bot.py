@@ -6,11 +6,11 @@ import math
 client = discord.Client()
 
 # Constant
-DISCORD_TOKEN = "NDUyNzA5MDI3ODA2NDQ1NTY4.DfUS6A.MVazaG_vTdre5D44gmej9rzp3f"
+DISCORD_TOKEN = "NDUyNzA5MDI3ODA2NDQ1NTY4.DfXofg.Q4QBBi6L5RhIErA2N16ZyrNQFS8"
 
 FORTNITE_API_KEY = 'ea5ffa46-76a0-426c-a2e8-8b9c6084ee96'
 
-LISTE = ['Wood', 'Carton', 'Bronze', 'Silver', 'Gold', 'Platinum', 'Diamond', 'Ruby', 'Royality', 'Illuminati', 'Hackeur']
+LISTE = ['Silver 1', 'Gold Nova', 'Gold Nova Master', 'Master Guardian', 'Master Guardian Elite', 'Legendary Eagle', 'Legendary Eagle Master', 'Supreme Master First Class', 'Global Elite', 'Showdown Champion', 'OMEGA']
 WOOD_B = 0.00
 WOOD_E = 0.99
 CARTON_B = 1.00
